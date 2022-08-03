@@ -7,3 +7,9 @@ color:#000000;
 font-weight: bold;
 fonte-size: 22px;
 text-decoration: none;}
+.caixa {position:relative;
+width: 960px;
+margin: 0 auto;}
+nav{position: absolute;
+top: 110px;
+right: 0;}
