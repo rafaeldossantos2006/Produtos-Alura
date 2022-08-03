@@ -1,0 +1,9 @@
+header {background:#EE82EE;}
+  nav li {display: inline;
+  margin: 0 0 0 15px;}
+
+nav a {text-transfornm: uppercase;
+color:#000000;
+font-weight: bold;
+fonte-size: 22px;
+text-decoration: none;}
